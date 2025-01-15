@@ -1,1 +1,1 @@
-# Kost-ku-web
+# Web Kost ku.
